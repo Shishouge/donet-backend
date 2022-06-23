@@ -1,0 +1,9 @@
+E:\大三下\.NET\Project\Backend\BloodManagement\BloodManagement.Model\bin\Debug\netcoreapp2.1\BloodManagement.Model.deps.json
+E:\大三下\.NET\Project\Backend\BloodManagement\BloodManagement.Model\bin\Debug\netcoreapp2.1\BloodManagement.Model.dll
+E:\大三下\.NET\Project\Backend\BloodManagement\BloodManagement.Model\obj\Debug\netcoreapp2.1\BloodManagement.Model.csproj.CoreCompileInputs.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\BloodManagement.Model\obj\Debug\netcoreapp2.1\BloodManagement.Model.AssemblyInfoInputs.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\BloodManagement.Model\obj\Debug\netcoreapp2.1\BloodManagement.Model.AssemblyInfo.cs
+E:\大三下\.NET\Project\Backend\BloodManagement\BloodManagement.Model\bin\Debug\netcoreapp2.1\BloodManagement.Model.pdb
+E:\大三下\.NET\Project\Backend\BloodManagement\BloodManagement.Model\obj\Debug\netcoreapp2.1\BloodManagement.Model.dll
+E:\大三下\.NET\Project\Backend\BloodManagement\BloodManagement.Model\obj\Debug\netcoreapp2.1\BloodManagement.Model.pdb
+E:\大三下\.NET\Project\Backend\BloodManagement\BloodManagement.Model\obj\Debug\netcoreapp2.1\BloodManagement.Model.csprojAssemblyReference.cache

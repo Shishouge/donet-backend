@@ -1,0 +1,8 @@
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\b\BloodManagement.IRepository\Debug\netcoreapp2.1\BloodManagement.IRepository.deps.json
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\b\BloodManagement.IRepository\Debug\netcoreapp2.1\BloodManagement.IRepository.dll
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.IRepository\Debug\netcoreapp2.1\BloodManagement.IRepository.csprojAssemblyReference.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.IRepository\Debug\netcoreapp2.1\BloodManagement.IRepository.csproj.CoreCompileInputs.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.IRepository\Debug\netcoreapp2.1\BloodManagement.IRepository.AssemblyInfoInputs.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.IRepository\Debug\netcoreapp2.1\BloodManagement.IRepository.AssemblyInfo.cs
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.IRepository\Debug\netcoreapp2.1\BloodManagement.IRepository.csproj.CopyComplete
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.IRepository\Debug\netcoreapp2.1\BloodManagement.IRepository.dll

@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject></StartupObject>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>x64</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Primitives" Version="2.2.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.9" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="SqlSugar" Version="5.0.0" />
+    <PackageReference Include="StackExchange.Redis" Version="2.2.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
+    <PackageReference Include="System.Runtime.Serialization.Json" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BloodManagement.ML\BloodManagement.ML.csproj" />
+    <ProjectReference Include="..\BloodManagement.Model\BloodManagement.Model.csproj" />
+    <ProjectReference Include="..\BloodManagement.Repository\BloodManagement.Repository.csproj" />
+    <ProjectReference Include="..\BloodManagement.Util\BloodManagement.Util.csproj" />
+    <ProjectReference Include="..\CodeDLL\CodeDLL.vcxproj" />
+    <ProjectReference Include="..\IService\BloodManagement.IService.csproj" />
+    <ProjectReference Include="..\Redis\Redis.csproj" />
+    <ProjectReference Include="..\Service\BloodManagement.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CilDll">
+      <HintPath>bin\Debug\netcoreapp2.1\CilDll.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

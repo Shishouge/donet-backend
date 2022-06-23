@@ -1,0 +1,15 @@
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement\Debug\netcoreapp2.1\BloodManagement.csproj.CoreCompileInputs.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement\Debug\netcoreapp2.1\BloodManagement.RazorAssemblyInfo.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement\Debug\netcoreapp2.1\BloodManagement.RazorAssemblyInfo.cs
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement\Debug\netcoreapp2.1\BloodManagement.AssemblyInfoInputs.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement\Debug\netcoreapp2.1\BloodManagement.AssemblyInfo.cs
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\b\BloodManagement\Debug\netcoreapp2.1\Data\Input.txt
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\b\BloodManagement\Debug\netcoreapp2.1\Data\test.txt
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\b\BloodManagement\Debug\netcoreapp2.1\BloodManagement.deps.json
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\b\BloodManagement\Debug\netcoreapp2.1\BloodManagement.runtimeconfig.json
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\b\BloodManagement\Debug\netcoreapp2.1\BloodManagement.runtimeconfig.dev.json
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\b\BloodManagement\Debug\netcoreapp2.1\BloodManagement.dll
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement\Debug\netcoreapp2.1\BloodManagement.csprojAssemblyReference.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement\Debug\netcoreapp2.1\BloodManagement.RazorTargetAssemblyInfo.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement\Debug\netcoreapp2.1\BloodManagement.csproj.CopyComplete
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement\Debug\netcoreapp2.1\BloodManagement.dll

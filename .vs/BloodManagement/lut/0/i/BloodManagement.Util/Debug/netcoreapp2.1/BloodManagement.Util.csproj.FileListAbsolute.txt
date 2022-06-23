@@ -1,0 +1,8 @@
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\b\BloodManagement.Util\Debug\netcoreapp2.1\BloodManagement.Util.deps.json
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\b\BloodManagement.Util\Debug\netcoreapp2.1\BloodManagement.Util.dll
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.Util\Debug\netcoreapp2.1\BloodManagement.Util.csprojAssemblyReference.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.Util\Debug\netcoreapp2.1\BloodManagement.Util.csproj.CoreCompileInputs.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.Util\Debug\netcoreapp2.1\BloodManagement.Util.AssemblyInfoInputs.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.Util\Debug\netcoreapp2.1\BloodManagement.Util.AssemblyInfo.cs
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.Util\Debug\netcoreapp2.1\BloodManagement.Util.csproj.CopyComplete
+E:\大三下\.NET\Project\Backend\BloodManagement\.vs\BloodManagement\lut\0\i\BloodManagement.Util\Debug\netcoreapp2.1\BloodManagement.Util.dll

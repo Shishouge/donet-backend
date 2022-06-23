@@ -1,0 +1,6 @@
+﻿D:\Program Files (x86)\visual studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  code.cpp
+e:\大三下\.net\project\backend\bloodmanagement\bmcode\code.cpp(6): warning C4018: “<”: 有符号/无符号不匹配
+e:\大三下\.net\project\backend\bloodmanagement\bmcode\code.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+    正在创建库 ..\BloodManagement\bin\Debug\netcoreapp2.1\BMCode.lib 和对象 ..\BloodManagement\bin\Debug\netcoreapp2.1\BMCode.exp
+  BMCode.vcxproj -> E:\大三下\.NET\Project\Backend\BloodManagement\BMCode\..\BloodManagement\bin\Debug\netcoreapp2.1\BMCode.dll

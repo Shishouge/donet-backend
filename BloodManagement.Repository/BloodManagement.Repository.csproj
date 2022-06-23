@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SqlSugar.IOC" Version="1.0.0" />
+    <PackageReference Include="SqlSugarCore" Version="5.0.3.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BloodManagement.Model\BloodManagement.Model.csproj" />
+    <ProjectReference Include="..\IRepository\BloodManagement.IRepository.csproj" />
+  </ItemGroup>
+
+</Project>

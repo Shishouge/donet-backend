@@ -1,0 +1,4 @@
+﻿  CodeDLL.cpp
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  CodeDLL.vcxproj -> E:\大三下\.NET\Project\Backend\BloodManagement\x64\Debug\CodeDLL.dll

@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="StackExchange.Redis" Version="2.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BloodManagement.Repository\BloodManagement.Repository.csproj" />
+    <ProjectReference Include="..\IRepository\BloodManagement.IRepository.csproj" />
+    <ProjectReference Include="..\IService\BloodManagement.IService.csproj" />
+    <ProjectReference Include="..\Redis\Redis.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CilDll">
+      <HintPath>..\BloodManagement\bin\Debug\netcoreapp2.1\CilDll.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

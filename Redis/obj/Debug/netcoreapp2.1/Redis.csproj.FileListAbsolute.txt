@@ -1,0 +1,9 @@
+E:\大三下\.NET\Project\Backend\BloodManagement\Redis\bin\Debug\netcoreapp2.1\Redis.deps.json
+E:\大三下\.NET\Project\Backend\BloodManagement\Redis\bin\Debug\netcoreapp2.1\Redis.dll
+E:\大三下\.NET\Project\Backend\BloodManagement\Redis\obj\Debug\netcoreapp2.1\Redis.csprojAssemblyReference.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\Redis\obj\Debug\netcoreapp2.1\Redis.csproj.CoreCompileInputs.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\Redis\obj\Debug\netcoreapp2.1\Redis.AssemblyInfoInputs.cache
+E:\大三下\.NET\Project\Backend\BloodManagement\Redis\obj\Debug\netcoreapp2.1\Redis.AssemblyInfo.cs
+E:\大三下\.NET\Project\Backend\BloodManagement\Redis\bin\Debug\netcoreapp2.1\Redis.pdb
+E:\大三下\.NET\Project\Backend\BloodManagement\Redis\obj\Debug\netcoreapp2.1\Redis.dll
+E:\大三下\.NET\Project\Backend\BloodManagement\Redis\obj\Debug\netcoreapp2.1\Redis.pdb
